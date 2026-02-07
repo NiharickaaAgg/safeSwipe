@@ -60,7 +60,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/Sanchitg17/DataScience_Credit-Card-Fraud-Detection.git
+git clone https://github.com/NiharickaaAgg/safeSwipe.git
 
 2. Navigate to the project directory:
 cd DataScience_Credit-Card-Fraud-Detection
